@@ -26,14 +26,16 @@ Vectors:
             
           Example:
             Name.pop_back();
-              This will remove a value located at the end of the vector for example if the vector had ( 7 , 12 , 5 ) it will now be ( 7 , 12 ).
+              This will remove a value located at the end of the vector.
+              for example if the vector had ( 7 , 12 , 5 ) it will now be ( 7 , 12 ).
 
    Name.front();
 
          Example:
            Name.front()=6;
            cout<<Name.front();
-             This function can read and rewrite the front of the vector, for example we can also do Name.front()=0; and now it will be equal to zero.
+             This function can read and rewrite the front of the vector,
+             for example we can also do Name.front()=0; and now it will be equal to zero.
   Name.back();
 
         Example:
@@ -45,7 +47,8 @@ Vectors:
 
         Example:
           cout<<name.size();
-            This function returns how many elements are in the vector . this is also the size of the vector if you do -1 to its value.
+            This function returns how many elements are in the vector .
+            this is also the size of the vector if you do -1 to its value.
 
   Name.clear();
 
@@ -55,7 +58,10 @@ Vectors:
           Abbas.push_back(3);
           cout<<Abbas[0]<<Abbas[1]<<Abbas[2]<<Abbas[3]<<Abbas[4];
 
-          It will print ( 3 2 3 4 5 ) , which means it clears the vector of any constraints that don't allow it to modify the front, and starts rewriting the vector depending on later incoming input.
+          It will print ( 3 2 3 4 5 ) , which means it clears the 
+          vector of any constraints that don't allow it to modify 
+          the front, and starts rewriting the vector depending on 
+          later incoming input.
 
   Name.swap('name_of_other_vector')
 
