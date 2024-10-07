@@ -6,7 +6,7 @@ Vectors:
   Written as followed; 
     vector <'data_type'> 'name_of_variable'['size_here_optional'] = {'values_upon_creation_optional'};
 
-  Assume we made a ( vec <string> Name = {"Abbas"};
+  Assume we made a | vec <string> Name = {"Abbas"}; |
     This is what we can do with it:
 
  Functions:
