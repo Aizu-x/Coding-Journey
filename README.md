@@ -10,7 +10,8 @@ Vectors:
     This is what we can do with it:
 
  Functions:
-    Name.assign('number of elements starting from 1 to inf' , 'the wanted value for all');
+    
+  Name.assign('number of elements starting from 1 to inf' , 'the wanted value for all');
 
         Example:
           Name.assign(1,"Sabbasa");
